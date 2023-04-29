@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Alex</h1>
 <h3 align="center">A Computer science student</h3>
 
-- 🌱 Currently learning **Angular, .NET, Linux**
+- 🌱 Currently learning **Angular, .NET**
 
 - 📫 How to reach me **alexandrugirlea36@gmail.com**
 
